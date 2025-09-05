@@ -1,5 +1,5 @@
 {
-	"name": "name",
+	"name": "Dropdown Menu",
 	"version": "1.0.0",
 	"main": "index.js",
 	"scripts": {
@@ -11,15 +11,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/alexc2029/odin-template1.git"
+		"url": "git+https://github.com/alexc2029/dropdown-menu.git"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/alexc2029/odin-template1/issues"
+		"url": "https://github.com/alexc2029/dropdown-menu/issues"
 	},
-	"homepage": "https://github.com/alexc2029/odin-template1#readme",
+	"homepage": "https://github.com/alexc2029/dropdown-menu#readme",
 	"description": "",
 	"devDependencies": {
 		"@eslint/js": "^9.34.0",
